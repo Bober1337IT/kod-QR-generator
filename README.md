@@ -1,0 +1,1 @@
+"# kod-QR-generator" 
